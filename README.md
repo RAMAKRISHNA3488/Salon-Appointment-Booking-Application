@@ -182,10 +182,6 @@ Once configured, you can **Register**, **Login**, and **Access all APIs** via th
 ✅ Role-based access (Admin, Salon Owner, Customer)  
 ✅ Fully containerized setup using **Docker**
 
----
-
-## 🧾 **License**
-This project is licensed under the **MIT License**.
 
 ---
 
