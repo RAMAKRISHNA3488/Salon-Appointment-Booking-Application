@@ -42,12 +42,12 @@ Feel free to **fork**, **star ⭐**, and **submit pull requests** to improve the
 ---
 
 ## 📂 Repository
-🔗 [GitHub Repository](https://github.com/yourusername/Salon-Appointment-Booking-Application)
+🔗 [GitHub Repository](https://github.com/ramakrishna3488/Salon-Appointment-Booking-Application)
 
 ---
 
 ## 🧑‍💻 Author
-**[Ramakrishna]**  
+**Ramakrishna**  
 🌐 Passionate about building scalable full-stack applications and exploring modern web technologies.
 
 ---
