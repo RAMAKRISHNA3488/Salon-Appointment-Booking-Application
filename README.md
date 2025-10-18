@@ -190,9 +190,8 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 🌐 **Author**
-**Developed by:** [Your Name]  
-📧 Email: [your.email@example.com]  
-💻 GitHub: [https://github.com/yourusername]
+**Developed by:** Ramakrishna  
+💻 GitHub: https://github.com/RAMAKRISHNA3488
 
 ---
 
