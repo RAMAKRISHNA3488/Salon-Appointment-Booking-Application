@@ -186,7 +186,7 @@ Once configured, you can **Register**, **Login**, and **Access all APIs** via th
 ---
 
 ## 🌐 **Author**
-**Developed by:** Ramakrishna  
+**Started by:** Ramakrishna  
 💻 GitHub: https://github.com/RAMAKRISHNA3488
 
 ---
