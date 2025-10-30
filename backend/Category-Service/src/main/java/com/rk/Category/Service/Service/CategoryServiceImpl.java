@@ -41,7 +41,7 @@ public class CategoryServiceImpl implements CategoryService {
 	@Override
 	public void deleteCategoryById(Long id,Long salonId) throws Exception {
 		Category category= getCategoryById(id);
-		if (category.getSalonId().equals(salonId)) {
+		if (!category.getSalonId().equals(salonId)) {
 			throw new Exception("Category with id: " + id + " does not belong to salon with id: " + salonId);
 		}
 		categoryRepository.deleteById(id);
